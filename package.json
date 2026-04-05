@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "start": "hugo server",
+    "serve": "hugo server --source exampleSite --themesDir ../.. --logLevel debug",
+    "build": "hugo build --source exampleSite --themesDir ../.. --logLevel debug --minify"
+  }
+}
