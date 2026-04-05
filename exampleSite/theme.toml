@@ -1,20 +1,18 @@
-name = "Hugo blog awesome"
+name = "Binary Matcha"
 license = "MIT"
 licenselink = "https://github.com/hugo-sid/hugo-blog-awesome/blob/main/LICENSE"
-description = "Minimal Hugo blog theme with light and dark mode support"
+description = "A dark Hugo theme. It features a clean and modern design, perfect for blogs and personal websites."
 
 # The home page of the theme, where the source can be found.
 homepage = "https://github.com/hugo-sid/hugo-blog-awesome/"
 
-# If you have a running demo of the theme.
-demosite = "https://hugo-blog-awesome.netlify.app/"
 
-tags = ["blog", "responsive", "minimal", "dark", "light", "multilingual"]
+tags = ["blog", "responsive", "minimal", "dark"]
 features = ["blog", "sass", "dark"]
 
-min_version = "0.87.0"
+min_version = "0.146.0"
 
 # If the theme has a single author
 [author]
-    name = "Sidharth R"
-    homepage = "https://sidh.dev"
+name = "Fundor333"
+homepage = "https://fundor333.com"
